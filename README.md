@@ -46,7 +46,7 @@ streamlit run app.py
 
 ## Conclusion:
 
-EyeLight is a example of how the integration of multiple technologies can result in a powerful and user-friendly application. By combining Streamlit, OpenCV, EasyOCR, gTTS, and GitHub Actions, it provides an intuitive and efficient platform for text extraction and text-to-speech conversion. Whether it's for digitizing printed content or providing accessibility options, EyeLight stands as a versatile solution that can be accessed directly on GitHub.
+EyeLight is a example of how the integration of multiple technologies can result in a powerful and user-friendly application. By combining Streamlit, OpenCV, EasyOCR and gTTS it provides an intuitive and efficient platform for text extraction and text-to-speech conversion. Whether it's for digitizing printed content or providing accessibility options, EyeLight stands as a versatile solution that can be accessed directly on GitHub.
 
 This project demonstrates the capabilities of OCR technology and how it can be leveraged to enhance user experiences by making information more accessible. EyeLight is a valuable addition to the growing landscape of AI-powered web applications, serving users with efficiency and accessibility in mind.
 
