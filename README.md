@@ -4,6 +4,7 @@
 
 EyeLight is a web application that harnesses the power of Optical Character Recognition (OCR) to extract text from images. This project showcases the seamless integration of various technologies, including Streamlit, OpenCV, EasyOCR, gTTS (Google Text-to-Speech), and GitHub Actions, to create a user-friendly and efficient OCR tool. With EyeLight, users can upload images containing text, extract that text, and even listen to it in audio form.
 
+<img src="ey.png" width="600" height="300">
 
 ## Key Features:
 
